@@ -12,4 +12,4 @@ npm install
 npm run dev
 
 # 编译并且压缩代码
-npm run build  ```
+npm run build  
