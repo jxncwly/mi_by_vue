@@ -5,7 +5,7 @@
 ## Build Setup
 
 ``` bash
-# 下载相关依赖包
+# 下载所有依赖包
 npm install
 
 # serve with hot reload at localhost:8080
