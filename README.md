@@ -1,21 +1,15 @@
 # mi-by-vue
 
-> vue做的小米官网
+> 使用vue.js模仿小米官网的作品
 
-## Build Setup
+## 运行步骤
 
 ``` bash
-# 下载所有依赖包
+# 安装所有依赖包
 npm install
 
-# serve with hot reload at localhost:8080
+# 在本地启动服务，并且通过localhost:8080地址进行访问
 npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# 编译并且压缩代码
+npm run build  ```
